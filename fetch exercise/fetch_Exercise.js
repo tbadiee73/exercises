@@ -16,6 +16,7 @@ function rendertodo(content){
     checkbox.innerHTML= content.completed;
 
 
+
     /*container_el.appendChild(title);*/
     container_el.appendChild(todo);
     container_el.appendChild(checkbox);
